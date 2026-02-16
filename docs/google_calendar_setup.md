@@ -29,7 +29,7 @@ Sigue estos pasos para obtener las credenciales:
 ## 5. Integrar en el Proyecto
 1. Renombra el archivo descargado a `credentials.json`.
 2. Muévelo a la carpeta `backend/` de este proyecto:
-   `c:\Users\SIXPC\Desktop\PyschoSystem\backend\credentials.json`
+   `c:tu_ruta\backend\credentials.json`
 
 ## 6. Compartir el Calendario (Importante)
 Para que el bot pueda escribir en tu calendario personal:
