@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+# ...
+
+# Django
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Custom helper/test scripts (containing passwords or sensitive logic)
+create_test_users.py
+delete_students.py
+fix_specialist.py
+verify_user.py
+check_specialist.py
+check_student.py
+check_citas.py
+fix_settings.py
+reproduce_error.py
+verify_rules.py
+email_config_template.py
+verify_user.py
+fix_specialist.py
+GMAIL_SMTP_SETUP.md
+fix_settings.py
+delete_students.py
+create_test_users.py
+check_student.py
+check_specialist.py
+check_citas.py
+reproduce_error.py
+verify_rules.py
